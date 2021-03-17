@@ -7,6 +7,13 @@ Because Guilded's notifications are broken, and you may want to get that orange 
 
 Or as me, use Do not Disturb and still get notifications. *because the red color looks better than the other ones*
 
+## Assembly
+Created with: Jetbrains Rider
+
+C# Version: 9.0
+
+SDK: .NET Core 3.1
+
 ## Libraries
 - [Guilded.NET](https://github.com/Guilded-NET/Guilded.NET/) - Unofficial way of creating self-bots.
    - Please be aware that this is in the gray zone of Guilded's ToS, and may or may not get your account terminated. You'll also not get any support for using the API as it's currently undocumented.
