@@ -1,0 +1,166 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Guilded Notifications/1.0.0": {
+        "dependencies": {
+          "Guilded.NET": "0.0.13",
+          "System.Reactive.Reference": "4.3.0.0"
+        },
+        "runtime": {
+          "Guilded Notifications.dll": {}
+        }
+      },
+      "Guilded.NET/0.0.13": {
+        "dependencies": {
+          "Guilded.NET.API": "0.0.13",
+          "Guilded.NET.Objects": "0.0.13",
+          "Newtonsoft.Json": "12.0.3",
+          "RestSharp": "106.11.7",
+          "Websocket.Client": "4.3.21"
+        },
+        "runtime": {
+          "lib/netstandard2.1/Guilded.NET.dll": {
+            "assemblyVersion": "0.0.13.0",
+            "fileVersion": "0.0.13.0"
+          }
+        }
+      },
+      "Guilded.NET.API/0.0.13": {
+        "dependencies": {
+          "Guilded.NET.Objects": "0.0.13",
+          "Newtonsoft.Json": "12.0.3",
+          "RestSharp": "106.11.7",
+          "Websocket.Client": "4.3.21"
+        },
+        "runtime": {
+          "lib/netstandard2.1/Guilded.NET.API.dll": {
+            "assemblyVersion": "0.0.13.0",
+            "fileVersion": "0.0.13.0"
+          }
+        }
+      },
+      "Guilded.NET.Objects/0.0.13": {
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.3"
+        },
+        "runtime": {
+          "lib/netstandard2.1/Guilded.NET.Objects.dll": {
+            "assemblyVersion": "0.0.13.0",
+            "fileVersion": "0.0.13.0"
+          }
+        }
+      },
+      "Newtonsoft.Json/12.0.3": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.3.23909"
+          }
+        }
+      },
+      "RestSharp/106.11.7": {
+        "runtime": {
+          "lib/netstandard2.0/RestSharp.dll": {
+            "assemblyVersion": "106.11.7.0",
+            "fileVersion": "106.11.7.0"
+          }
+        }
+      },
+      "System.Reactive/4.3.2": {},
+      "System.Threading.Channels/4.7.0": {},
+      "Websocket.Client/4.3.21": {
+        "dependencies": {
+          "System.Reactive": "4.3.2",
+          "System.Threading.Channels": "4.7.0"
+        },
+        "runtime": {
+          "lib/netstandard2.1/Websocket.Client.dll": {
+            "assemblyVersion": "4.3.0.0",
+            "fileVersion": "4.3.0.0"
+          }
+        }
+      },
+      "System.Reactive.Reference/4.3.0.0": {
+        "runtime": {
+          "System.Reactive.dll": {
+            "assemblyVersion": "4.3.0.0",
+            "fileVersion": "4.3.2.55399"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Guilded Notifications/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Guilded.NET/0.0.13": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-jQPhkXnTfpBwJO/IU1ynOaz1gtlEbJP+NQt9HTLNgEou+ejr8Go/t3bnW6yXnidQ+3GS+zu4josbq2fPNqDyKA==",
+      "path": "guilded.net/0.0.13",
+      "hashPath": "guilded.net.0.0.13.nupkg.sha512"
+    },
+    "Guilded.NET.API/0.0.13": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-87u7qq4tdAE27ETNLVPZSVWVtsyi/huz1DEOyA9rRFuKTxKdYEpWGaYLecxEqzIQQeJnDTqvu4OtkTedIHTdWg==",
+      "path": "guilded.net.api/0.0.13",
+      "hashPath": "guilded.net.api.0.0.13.nupkg.sha512"
+    },
+    "Guilded.NET.Objects/0.0.13": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-1QdcfTkf+n0ge9xmDjuiSPFRNyzkHXAgephe9aIXIX2DMqwMQxn4g6aGyYNQ/2JObg33bTDdK1THVoahm6dEBw==",
+      "path": "guilded.net.objects/0.0.13",
+      "hashPath": "guilded.net.objects.0.0.13.nupkg.sha512"
+    },
+    "Newtonsoft.Json/12.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6mgjfnRB4jKMlzHSl+VD+oUc1IebOZabkbyWj2RiTgWwYPPuaK1H97G1sHqGwPlS5npiF5Q0OrxN1wni2n5QWg==",
+      "path": "newtonsoft.json/12.0.3",
+      "hashPath": "newtonsoft.json.12.0.3.nupkg.sha512"
+    },
+    "RestSharp/106.11.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-NzndH096CTulvq+ihr7u1mBJ29oukdi9A8bypQJk+kaHxbRzTTrtgsEEQAb04ptTUZmQa7cgo7uF5z7NuEPX1Q==",
+      "path": "restsharp/106.11.7",
+      "hashPath": "restsharp.106.11.7.nupkg.sha512"
+    },
+    "System.Reactive/4.3.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-WhGkScPWxw2pp7UwRW8M1OvYZ3WUDPC2wJ0aiuaB4KRD3bt4wLkgHgYnOUu87WRhsurvv5LN0E63iWOEza2o8g==",
+      "path": "system.reactive/4.3.2",
+      "hashPath": "system.reactive.4.3.2.nupkg.sha512"
+    },
+    "System.Threading.Channels/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-gdOOXBhtt2UpTxYJm1DRmoqNfYg5ypvhzhVt0vxKhzxXFjS81r8yIOSFsJYLRa1Jc14GBAqCnjxJstO3zBN7gg==",
+      "path": "system.threading.channels/4.7.0",
+      "hashPath": "system.threading.channels.4.7.0.nupkg.sha512"
+    },
+    "Websocket.Client/4.3.21": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-v0OLO0vJaESQefNfIzsaTEV2tpRH+9Jn6qI6gzoI0lvCGfGUAn0q+mdka/Mr6qad7iAvVPoE9rJdbxTzUJVL2w==",
+      "path": "websocket.client/4.3.21",
+      "hashPath": "websocket.client.4.3.21.nupkg.sha512"
+    },
+    "System.Reactive.Reference/4.3.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,22 @@
+C:\Users\Dort Birdington\RiderProjects\Guilded Notifications\Guilded Notifications\bin\Debug\netcoreapp3.1\Guilded Notifications.exe
+C:\Users\Dort Birdington\RiderProjects\Guilded Notifications\Guilded Notifications\bin\Debug\netcoreapp3.1\Guilded Notifications.deps.json
+C:\Users\Dort Birdington\RiderProjects\Guilded Notifications\Guilded Notifications\bin\Debug\netcoreapp3.1\Guilded Notifications.runtimeconfig.json
+C:\Users\Dort Birdington\RiderProjects\Guilded Notifications\Guilded Notifications\bin\Debug\netcoreapp3.1\Guilded Notifications.runtimeconfig.dev.json
+C:\Users\Dort Birdington\RiderProjects\Guilded Notifications\Guilded Notifications\bin\Debug\netcoreapp3.1\Guilded Notifications.dll
+C:\Users\Dort Birdington\RiderProjects\Guilded Notifications\Guilded Notifications\bin\Debug\netcoreapp3.1\Guilded Notifications.pdb
+C:\Users\Dort Birdington\RiderProjects\Guilded Notifications\Guilded Notifications\bin\Debug\netcoreapp3.1\System.Reactive.xml
+C:\Users\Dort Birdington\RiderProjects\Guilded Notifications\Guilded Notifications\obj\Debug\netcoreapp3.1\Guilded Notifications.csprojAssemblyReference.cache
+C:\Users\Dort Birdington\RiderProjects\Guilded Notifications\Guilded Notifications\obj\Debug\netcoreapp3.1\Guilded Notifications.AssemblyInfoInputs.cache
+C:\Users\Dort Birdington\RiderProjects\Guilded Notifications\Guilded Notifications\obj\Debug\netcoreapp3.1\Guilded Notifications.AssemblyInfo.cs
+C:\Users\Dort Birdington\RiderProjects\Guilded Notifications\Guilded Notifications\obj\Debug\netcoreapp3.1\Guilded Notifications.csproj.CoreCompileInputs.cache
+C:\Users\Dort Birdington\RiderProjects\Guilded Notifications\Guilded Notifications\obj\Debug\netcoreapp3.1\Guilded Notifications.csproj.CopyComplete
+C:\Users\Dort Birdington\RiderProjects\Guilded Notifications\Guilded Notifications\obj\Debug\netcoreapp3.1\Guilded Notifications.dll
+C:\Users\Dort Birdington\RiderProjects\Guilded Notifications\Guilded Notifications\obj\Debug\netcoreapp3.1\Guilded Notifications.pdb
+C:\Users\Dort Birdington\RiderProjects\Guilded Notifications\Guilded Notifications\obj\Debug\netcoreapp3.1\Guilded Notifications.genruntimeconfig.cache
+C:\Users\Dort Birdington\RiderProjects\Guilded Notifications\Guilded Notifications\bin\Debug\netcoreapp3.1\Guilded.NET.dll
+C:\Users\Dort Birdington\RiderProjects\Guilded Notifications\Guilded Notifications\bin\Debug\netcoreapp3.1\Guilded.NET.API.dll
+C:\Users\Dort Birdington\RiderProjects\Guilded Notifications\Guilded Notifications\bin\Debug\netcoreapp3.1\Guilded.NET.Objects.dll
+C:\Users\Dort Birdington\RiderProjects\Guilded Notifications\Guilded Notifications\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Dort Birdington\RiderProjects\Guilded Notifications\Guilded Notifications\bin\Debug\netcoreapp3.1\RestSharp.dll
+C:\Users\Dort Birdington\RiderProjects\Guilded Notifications\Guilded Notifications\bin\Debug\netcoreapp3.1\Websocket.Client.dll
+C:\Users\Dort Birdington\RiderProjects\Guilded Notifications\Guilded Notifications\bin\Debug\netcoreapp3.1\System.Reactive.dll
